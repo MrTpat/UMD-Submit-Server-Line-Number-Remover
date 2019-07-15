@@ -3,4 +3,4 @@
 
 ### Available on the chrome webstore here:
 
-## https://chrome.google.com/webstore/detail/umd-submit-server-modifie/gmgdckbaaehhiahdnjhccbnhpmiiflbf?hl=en
+https://chrome.google.com/webstore/detail/umd-submit-server-modifie/gmgdckbaaehhiahdnjhccbnhpmiiflbf?hl=en
